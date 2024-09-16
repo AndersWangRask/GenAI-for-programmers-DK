@@ -1,6 +1,6 @@
 ---
 title: Øvelse 3 - Debugging
-nav_order: 4
+nav_order: 5
 ---
 
 # Øvelse 3: Debugging

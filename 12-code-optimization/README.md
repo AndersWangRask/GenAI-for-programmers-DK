@@ -1,6 +1,6 @@
 ---
 title: Øvelse 12 - Kodeoptimering
-nav_order: 13
+nav_order: 14
 ---
 
 # Øvelse 12: Kodeoptimering

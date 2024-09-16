@@ -1,6 +1,6 @@
 ---
 title: Øvelse 1 - Simpel Kodegenerering
-nav_order: 2
+nav_order: 3
 ---
 
 # Øvelse 1: Simpel Kodegenerering

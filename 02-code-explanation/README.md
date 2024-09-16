@@ -1,6 +1,6 @@
 ---
 title: Øvelse 2 - Kodeforklaring
-nav_order: 3
+nav_order: 4
 ---
 
 # Øvelse 2: Kodeforklaring

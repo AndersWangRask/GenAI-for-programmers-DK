@@ -1,6 +1,6 @@
 ---
 title: Øvelse 14 - Datastrukturvalg
-nav_order: 15
+nav_order: 16
 ---
 
 # Øvelse 14: Datastrukturvalg

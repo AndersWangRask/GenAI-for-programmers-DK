@@ -1,6 +1,6 @@
 ---
 title: Øvelse 8 - Regular Expressions (Regex)
-nav_order: 9
+nav_order: 10
 ---
 
 # Øvelse 8: Regular Expressions (Regex)

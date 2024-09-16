@@ -1,9 +1,7 @@
-<!-- 
 ---
 title: Introduktion til Generativ AI for programmører (Dansk)
 nav_order: 1
 ---
--->
 
 # Introduktion til Generativ AI for programmører (Dansk)
 

@@ -1,6 +1,6 @@
 ---
 title: Øvelse 5 - Konvertering mellem programmeringssprog
-nav_order: 6
+nav_order: 7
 ---
 
 # Øvelse 5: Konvertering mellem programmeringssprog
