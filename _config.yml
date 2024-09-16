@@ -1,1 +1,35 @@
-theme: jekyll-theme-primer
+# Site settings
+title: AI-Assisted Programming Exercises
+description: En samling af øvelser designet til at hjælpe med at mestre brugen af AI i softwareudvikling
+baseurl: "/GenAI-for-programmers-DK" # navnet på dit repository
+url: "https://anderswangrask.github.io" # erstat med din GitHub Pages URL
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+toggle_color_scheme: true
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "View on GitHub":
+    - "//github.com/AndersWangRask/GenAI-for-programmers-DK"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "//github.com/AndersWangRask/GenAI-for-programmers-DK" # din repository URL
+gh_edit_branch: "main" # den branch hvor dine docs er hostet
+gh_edit_view_mode: "tree" # "tree" eller "edit" hvis du vil at linket skal åbne i GitHub editor
