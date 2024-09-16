@@ -1,3 +1,8 @@
+---
+title: Øvelse 6 - Algoritmeforklaring og implementering
+nav_order: 7
+---
+
 # Øvelse 6: Algoritmeforklaring og implementering
 
 ## Formål

@@ -1,3 +1,8 @@
+---
+title: Øvelse 1 - Simpel Kodegenerering
+nav_order: 2
+---
+
 # Øvelse 1: Simpel Kodegenerering
 
 ## Formål

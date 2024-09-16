@@ -1,3 +1,8 @@
+---
+title: Øvelse 8 - Regular Expressions (Regex)
+nav_order: 9
+---
+
 # Øvelse 8: Regular Expressions (Regex)
 
 ## Formål

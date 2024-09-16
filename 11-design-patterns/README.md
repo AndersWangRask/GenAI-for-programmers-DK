@@ -1,3 +1,8 @@
+---
+title: Øvelse 11 - Design Patterns
+nav_order: 12
+---
+
 # Øvelse 11: Design Patterns
 
 ## Formål

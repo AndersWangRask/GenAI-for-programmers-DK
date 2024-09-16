@@ -1,3 +1,8 @@
+---
+title: Øvelse 7 - Refaktorering
+nav_order: 8
+---
+
 # Øvelse 7: Refaktorering
 
 ## Formål

@@ -1,3 +1,8 @@
+---
+title: Øvelse 15 - Systemdesign
+nav_order: 16
+---
+
 # Øvelse 15: Systemdesign
 
 ## Formål

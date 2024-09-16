@@ -1,3 +1,8 @@
+---
+title: Øvelse 12 - Kodeoptimering
+nav_order: 13
+---
+
 # Øvelse 12: Kodeoptimering
 
 ## Formål

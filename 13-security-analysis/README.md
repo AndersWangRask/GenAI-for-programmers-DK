@@ -1,3 +1,8 @@
+---
+title: Øvelse 13 - Sikkerhedsanalyse
+nav_order: 14
+---
+
 # Øvelse 13: Sikkerhedsanalyse
 
 ## Formål

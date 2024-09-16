@@ -1,3 +1,8 @@
+---
+title: Øvelse 10 - API-dokumentation
+nav_order: 11
+---
+
 # Øvelse 10: API-dokumentation
 
 ## Formål

@@ -1,3 +1,8 @@
+---
+title: Øvelse 2 - Kodeforklaring
+nav_order: 3
+---
+
 # Øvelse 2: Kodeforklaring
 
 ## Formål

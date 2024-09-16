@@ -1,3 +1,8 @@
+---
+title: Øvelse 3 - Debugging
+nav_order: 4
+---
+
 # Øvelse 3: Debugging
 
 ## Formål

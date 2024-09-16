@@ -1,3 +1,8 @@
+---
+title: Øvelse 14 - Datastrukturvalg
+nav_order: 15
+---
+
 # Øvelse 14: Datastrukturvalg
 
 ## Formål
