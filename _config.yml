@@ -1,5 +1,5 @@
 # Site settings
-title: AI-Assisted Programming Exercises
+title: Gen AI for programører
 description: En samling af øvelser designet til at hjælpe med at mestre brugen af AI i softwareudvikling
 baseurl: "/GenAI-for-programmers-DK" # navnet på dit repository
 url: "https://anderswangrask.github.io" # erstat med din GitHub Pages URL
