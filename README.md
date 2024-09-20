@@ -1,6 +1,8 @@
 # Introduktion til Generativ AI for programmører (Dansk)
 
-Velkommen til vores samling af øvelser i AI-assisteret programmering. Dette repository indeholder 15 øvelser og fem praktiske projekter designet til at hjælpe dig med at mestre brugen af AI i din softwareudviklingsproces.
+Velkommen til vores samling af øvelser og praktiske projekter i AI-assisteret programmering. Dette repository indeholder 15 øvelser og fem praktiske projekter designet til at hjælpe dig med at mestre brugen af AI i din softwareudviklingsproces.
+
+Materialet er henvendt til eksisterende programmører, der her får mulighed for at lære om generativ AI og øve nye færdigheder.
 
 ## Indholdsfortegnelse
 
