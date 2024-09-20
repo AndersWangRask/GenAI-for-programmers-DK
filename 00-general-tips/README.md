@@ -5,7 +5,7 @@ nav_order: 2
 
 # Generelle Tips for AI-Assisteret Programmering
 
-Effektiv brug af AI-værktøjer som Claude i programmering handler om at forstå, hvordan man bedst kommunikerer med og udnytter AI'ens kapaciteter. Her er nogle nøgletips til at forbedre din interaktion med AI-assistenter:
+Effektiv brug af AI-værktøjer som [Claude.ai](https://claude.ai/) og [ChatGPT](https://chatgpt.com/) i programmering handler om at forstå, hvordan man bedst kommunikerer med og udnytter AI'ens kapaciteter. Her er nogle nøgletips til at forbedre din interaktion med AI-assistenter:
 
 ## 1. Start med klare og specifikke forespørgsler
 
