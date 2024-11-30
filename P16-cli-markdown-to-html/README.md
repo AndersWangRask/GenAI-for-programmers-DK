@@ -6,7 +6,9 @@ nav_order: 18
 # Praktisk Projekt: Markdown til HTML Konverter
 
 ## Projektbeskrivelse
-I dette projekt skal du udvikle et command line værktøj, der kan konvertere Markdown-filer til HTML ved hjælp af AI-assisteret programmering. Dette projekt giver dig mulighed for at øve dig i at bruge AI til at udvikle et komplet, funktionelt program fra bunden.
+I dette projekt skal du udvikle et command line værktøj, der kan konvertere Markdown-filer til HTML ved hjælp af AI-assisteret programmering. Dette projekt giver dig mulighed for at øve dig i at bruge AI til at udvikle et komplet, funktionelt program fra bunden. 
+
+Du kan læse mere om Markdown-formatet i bunden af denne fil.
 
 ## Projektkrav
 - Læs en Markdown-fil fra en sti angivet som command line argument
@@ -72,3 +74,8 @@ Når du har implementeret din Markdown til HTML konverter, er du velkommen til a
 - Refleksioner over, hvad du har lært om AI-assisteret programmering gennem dette projekt
 
 God fornøjelse med projektet, og husk at nyde processen med at udforske mulighederne ved AI-assisteret udvikling!
+
+## Om Markdown
+Markdown er et let-at-læse og let-at-skrive tekstformat, der kan konverteres til HTML. Det blev skabt af John Gruber og Aaron Swartz i 2004 med målet om at gøre det så enkelt som muligt at formatere tekst, samtidig med at det forbliver læsbart i sin rå form. Markdown bruges bredt på platforme som GitHub, Reddit, og mange dokumentationsværktøjer.
+
+Du kan lære mere om Markdown på [den officielle Markdown hjemmeside](https://daringfireball.net/projects/markdown/) eller i [GitHub's Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
